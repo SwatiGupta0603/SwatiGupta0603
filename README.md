@@ -1,4 +1,5 @@
 ## Hi there 👋
+- Hi, my name is Swati 
 - 🔭 I’m currently working on ...
 <!--
 **SwatiGupta0603/SwatiGupta0603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
